@@ -1,0 +1,88 @@
+04:17:34.467 [main] DEBUG api.Tests.CartFunction - ******Adding the product in cart*******
+04:17:34.579 [main] DEBUG api.Tests.CartFunction - ******Product is added in cart*******
+04:17:34.598 [main] DEBUG api.Tests.CartFunction - ******Getting cart product details *******
+04:17:36.837 [main] DEBUG api.Tests.CartFunction - ******Product is fetched successfully*******
+04:17:36.849 [main] DEBUG api.Tests.CartFunction - ******editing product quantity in cart*******
+04:17:36.950 [main] DEBUG api.Tests.CartFunction - ******Product Quanity is edited*******
+04:17:36.954 [main] DEBUG api.Tests.CartFunction - ******Removing Product From Cart*******
+04:17:37.028 [main] DEBUG api.Tests.CartFunction - ******Product is removed from cart*******
+04:17:37.033 [main] DEBUG api.Tests.ShippingMethod - ******Adding shipping address*******
+04:17:37.235 [main] DEBUG api.Tests.ShippingMethod - ******Shipping address is added*******
+04:17:37.241 [main] DEBUG api.Tests.ShippingMethod - ******Getting shipping methods*******
+04:17:38.447 [main] DEBUG api.Tests.ShippingMethod - ******Shipping methods are fetched successfully*******
+04:17:38.450 [main] DEBUG api.Tests.ShippingMethod - ******Selecting shipping method*******
+04:17:38.532 [main] DEBUG api.Tests.ShippingMethod - ******Shipping method is selected*******
+04:17:38.535 [main] DEBUG api.Tests.ShippingMethod - ******Addidng costumer details*******
+04:17:38.800 [main] DEBUG api.Tests.ShippingMethod - ******Costumer details is added successfully*******
+04:17:38.805 [main] DEBUG api.Tests.PaymentModule - ******Adding payment address*******
+04:17:38.900 [main] DEBUG api.Tests.PaymentModule - ******Payment address is added*******
+04:17:38.906 [main] DEBUG api.Tests.PaymentModule - ******Getting payment methods*******
+04:17:40.110 [main] DEBUG api.Tests.PaymentModule - ******Payment methods are fetched successfully*******
+04:17:40.120 [main] DEBUG api.Tests.PaymentModule - ******Selecting the payment method*******
+04:17:40.242 [main] DEBUG api.Tests.PaymentModule - ******Payment method is selected successfully*******
+04:20:04.052 [main] DEBUG api.Tests.CartFunction - ******Adding the product in cart*******
+04:20:04.195 [main] DEBUG api.Tests.CartFunction - ******Product is added in cart*******
+04:20:04.210 [main] DEBUG api.Tests.CartFunction - ******Getting cart product details *******
+04:20:06.431 [main] DEBUG api.Tests.CartFunction - ******Product is fetched successfully*******
+04:20:06.445 [main] DEBUG api.Tests.CartFunction - ******editing product quantity in cart*******
+04:20:06.558 [main] DEBUG api.Tests.CartFunction - ******Product Quantity is edited*******
+04:20:06.561 [main] DEBUG api.Tests.CartFunction - ******Removing Product From Cart*******
+04:20:06.634 [main] DEBUG api.Tests.CartFunction - ******Product is removed from cart*******
+04:20:06.638 [main] DEBUG api.Tests.ShippingMethod - ******Adding shipping address*******
+04:20:06.797 [main] DEBUG api.Tests.ShippingMethod - ******Shipping address is added*******
+04:20:06.799 [main] DEBUG api.Tests.ShippingMethod - ******Getting shipping methods*******
+04:20:07.993 [main] DEBUG api.Tests.ShippingMethod - ******Shipping methods are fetched successfully*******
+04:20:07.995 [main] DEBUG api.Tests.ShippingMethod - ******Selecting shipping method*******
+04:20:08.074 [main] DEBUG api.Tests.ShippingMethod - ******Shipping method is selected*******
+04:20:08.078 [main] DEBUG api.Tests.ShippingMethod - ******Adding costumer details*******
+04:20:08.354 [main] DEBUG api.Tests.ShippingMethod - ******Costumer details is added successfully*******
+04:20:08.359 [main] DEBUG api.Tests.PaymentModule - ******Adding payment address*******
+04:20:08.442 [main] DEBUG api.Tests.PaymentModule - ******Payment address is added*******
+04:20:08.447 [main] DEBUG api.Tests.PaymentModule - ******Getting payment methods*******
+04:20:09.634 [main] DEBUG api.Tests.PaymentModule - ******Payment methods are fetched successfully*******
+04:20:09.645 [main] DEBUG api.Tests.PaymentModule - ******Selecting the payment method*******
+04:20:09.757 [main] DEBUG api.Tests.PaymentModule - ******Payment method is selected successfully*******
+14:27:52.208 [main] DEBUG api.Tests.CartFunction - ******Adding the product in cart*******
+14:27:52.394 [main] DEBUG api.Tests.CartFunction - ******Product is added in cart*******
+14:27:52.409 [main] DEBUG api.Tests.CartFunction - ******Getting cart product details *******
+14:27:54.917 [main] DEBUG api.Tests.CartFunction - ******Product is fetched successfully*******
+14:27:54.926 [main] DEBUG api.Tests.CartFunction - ******editing product quantity in cart*******
+14:27:55.056 [main] DEBUG api.Tests.CartFunction - ******Product Quantity is edited*******
+14:27:55.059 [main] DEBUG api.Tests.CartFunction - ******Removing Product From Cart*******
+14:27:55.144 [main] DEBUG api.Tests.CartFunction - ******Product is removed from cart*******
+14:27:55.147 [main] DEBUG api.Tests.ShippingMethod - ******Adding shipping address*******
+14:27:55.438 [main] DEBUG api.Tests.ShippingMethod - ******Shipping address is added*******
+14:27:55.440 [main] DEBUG api.Tests.ShippingMethod - ******Getting shipping methods*******
+14:27:56.689 [main] DEBUG api.Tests.ShippingMethod - ******Shipping methods are fetched successfully*******
+14:27:56.690 [main] DEBUG api.Tests.ShippingMethod - ******Selecting shipping method*******
+14:27:56.763 [main] DEBUG api.Tests.ShippingMethod - ******Shipping method is selected*******
+14:27:56.765 [main] DEBUG api.Tests.ShippingMethod - ******Adding costumer details*******
+14:27:57.064 [main] DEBUG api.Tests.ShippingMethod - ******Costumer details is added successfully*******
+14:27:57.066 [main] DEBUG api.Tests.PaymentModule - ******Adding payment address*******
+14:27:57.170 [main] DEBUG api.Tests.PaymentModule - ******Payment address is added*******
+14:27:57.174 [main] DEBUG api.Tests.PaymentModule - ******Getting payment methods*******
+14:27:58.413 [main] DEBUG api.Tests.PaymentModule - ******Payment methods are fetched successfully*******
+14:27:58.418 [main] DEBUG api.Tests.PaymentModule - ******Selecting the payment method*******
+14:27:58.490 [main] DEBUG api.Tests.PaymentModule - ******Payment method is selected successfully*******
+14:31:40.006 [main] DEBUG api.Tests.CartFunction - ******Adding the product in cart*******
+14:31:40.133 [main] DEBUG api.Tests.CartFunction - ******Product is added in cart*******
+14:31:40.144 [main] DEBUG api.Tests.CartFunction - ******Getting cart product details *******
+14:31:42.418 [main] DEBUG api.Tests.CartFunction - ******Product is fetched successfully*******
+14:31:42.426 [main] DEBUG api.Tests.CartFunction - ******editing product quantity in cart*******
+14:31:42.533 [main] DEBUG api.Tests.CartFunction - ******Product Quantity is edited*******
+14:31:42.535 [main] DEBUG api.Tests.CartFunction - ******Removing Product From Cart*******
+14:31:42.616 [main] DEBUG api.Tests.CartFunction - ******Product is removed from cart*******
+14:31:42.621 [main] DEBUG api.Tests.ShippingMethod - ******Adding shipping address*******
+14:31:42.794 [main] DEBUG api.Tests.ShippingMethod - ******Shipping address is added*******
+14:31:42.796 [main] DEBUG api.Tests.ShippingMethod - ******Getting shipping methods*******
+14:31:44.006 [main] DEBUG api.Tests.ShippingMethod - ******Shipping methods are fetched successfully*******
+14:31:44.008 [main] DEBUG api.Tests.ShippingMethod - ******Selecting shipping method*******
+14:31:44.110 [main] DEBUG api.Tests.ShippingMethod - ******Shipping method is selected*******
+14:31:44.111 [main] DEBUG api.Tests.ShippingMethod - ******Adding costumer details*******
+14:31:44.389 [main] DEBUG api.Tests.ShippingMethod - ******Costumer details is added successfully*******
+14:31:44.392 [main] DEBUG api.Tests.PaymentModule - ******Adding payment address*******
+14:31:44.468 [main] DEBUG api.Tests.PaymentModule - ******Payment address is added*******
+14:31:44.470 [main] DEBUG api.Tests.PaymentModule - ******Getting payment methods*******
+14:31:45.657 [main] DEBUG api.Tests.PaymentModule - ******Payment methods are fetched successfully*******
+14:31:45.663 [main] DEBUG api.Tests.PaymentModule - ******Selecting the payment method*******
+14:31:45.754 [main] DEBUG api.Tests.PaymentModule - ******Payment method is selected successfully*******
